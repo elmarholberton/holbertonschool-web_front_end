@@ -1,1 +1,1 @@
-"0. Responsive device"
+0. Responsive device
