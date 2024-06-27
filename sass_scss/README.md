@@ -14,3 +14,4 @@ How to use mixins
 How to declare extend/inheritance styles
 How to manipulate operators
 
+For TEST git commit -m . date 27.6.2024
