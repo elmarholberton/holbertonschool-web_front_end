@@ -1,8 +1,10 @@
-Bootstrap
-Learning Objectives
+# Bootstrap
+
+## Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-Usage of Containers
-Usage of the Grid system
-Usage of Components
-Usage of Utilities
+- Usage of Containers
+- Usage of the Grid system
+- Usage of Components
+- Usage of Utilities
